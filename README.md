@@ -13,7 +13,7 @@ tout de même vérifier que les poules sont toutes dans le poulailler après la 
 Une sortie 120 Vac est prévue pour y brancher un élément chauffant pour le chauffage du poulailler. La consigne est ajustée par 
 l'usager.
 
-Chauffe poussins
+<h3>Chauffe poussins<\h3>
 
 Un chauffe poussins est aussi présent dans le poulailler. Il comporte une sortie 120 Vac pour brancher un élément chauffant. La consigne
 de température est ajustée par l'utilisateur via l'interface NodeRed.
