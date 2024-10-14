@@ -18,4 +18,5 @@ Chauffe poussins
 Un chauffe poussins est aussi présent dans le poulailler. Il comporte une sortie 120 Vac pour brancher un élément chauffant. La consigne
 de température est ajustée par l'utilisateur via l'interface NodeRed.
 
-
+Source du code : les codes en C++ utilisés par les ESP8266 sont inspirés du projet
+Farm-Data-Relay-System de Timm Bogner (https://github.com/timmbogner/Farm-Data-Relay-System).
